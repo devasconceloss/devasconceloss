@@ -8,7 +8,7 @@ I'm a mechatronics engineer and I really enjoy learning new languages and framew
 Skills: PYTHON 3 / JS / HTML / CSS
 
 - 🔭 I’m currently working on web frameworks, I have already finished my final exam and will soon be sharing it. 
-- 🌱 I’m currently learning JS, Html, CSS, Django 
+- 🌱 I’m currently learning Html, CSS and JS in that order 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thiagovasc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_thiagosav/)  
