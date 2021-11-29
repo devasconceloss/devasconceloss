@@ -15,6 +15,6 @@ Skills: PYTHON 3 / JS / HTML / CSS
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagovasc&hide=stars,prs)
+
 
 
