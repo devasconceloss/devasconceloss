@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Vasconcelos</h1>
 <h3 align="center">A mechatronics engineer and a frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Nft preview card](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-JgSLQGtI3)
+- 🔭 I’m currently working on [Frontend Mentor Challenges](https://github.com/Thiagovasc/Frontend-Mentor-Challenges)
 
 - 🌱 I’m currently learning **HTML5, CSS3, Java Script, Type Script**
 
