@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/thiagovasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/thiagovasc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-vasconcelos3009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-vasconcelos3009/" height="30" width="40" /></a>
+<a href="https://dev.to/thiagovasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/thiagovasc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thiago-vasconcelos3009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-vasconcelos3009/" height="30" width="40" /></a>
 <a href="https://kaggle.com/thiagovasconcelos30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thiagovasconcelos30" height="30" width="40" /></a>
 <a href="https://instagram.com/_thiagosav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thiagosav" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/719685530354450492/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/719685530354450492/" height="30" width="40" /></a>
