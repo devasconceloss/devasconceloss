@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, Java Script, Type Script**
 
-- 👨‍💻 All of my projects are available at [https://thiagovasc.github.io/](https://thiagovasc.github.io/)
-
 - 📫 How to reach me **pedrosav14@gmail.com**
 
 - ⚡ Fun fact **I think I am good at telling jokes**
