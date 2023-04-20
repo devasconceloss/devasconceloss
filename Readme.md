@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular Todo APP, Todo API with FastAPI<br>👯 I’m looking to collaborate on Open-source projects<br>🤝 I’m looking for help with Data Binding<br>🌱 I’m currently learning Angular, TypeScript, Rest API<br>💬 Ask me about Soccer, LOR and Astronomy<br>⚡ Fun fact I'm a good joke teller
+🔭 I’m currently working on Learning Angular and Refactoring CNN<br>👯 I’m looking to collaborate on Open-source projects<br>🤝 I’m looking for help with Data Binding<br>🌱 I’m currently learning Angular, TypeScript, Rest API<br>💬 Ask me about Soccer, LOR and Astronomy<br>⚡ Fun fact I'm a good joke teller
 
 
 ## 🌐 Socials:
